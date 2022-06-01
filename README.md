@@ -4,5 +4,6 @@
 
 ### Aqui você encontra:
 
-- _Strogonoff de Frango_ 
+- _Strogonoff de Frango_
+- _Lasanha_
 
