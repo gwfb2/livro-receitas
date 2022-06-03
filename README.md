@@ -5,5 +5,5 @@
 ### Aqui você encontra:
 
 - _Strogonoff de Frango_
-- _Lasanha_
+- _Lasanha_ (em breve)
 
